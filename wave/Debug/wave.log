@@ -1,0 +1,7 @@
+﻿  recorder.cpp
+C:\Users\USER\OneDrive\桌面\語音壓縮\wave\wave\recorder.cpp(183,25): warning C4101: 'max': 未參考的區域變數
+C:\Users\USER\OneDrive\桌面\語音壓縮\wave\wave\recorder.cpp(184,25): warning C4101: 'average': 未參考的區域變數
+C:\Users\USER\OneDrive\桌面\語音壓縮\wave\wave\recorder.cpp(183,30): warning C4101: 'val': 未參考的區域變數
+C:\Users\USER\OneDrive\桌面\語音壓縮\wave\wave\recorder.cpp(164,9): warning C4101: 'count': 未參考的區域變數
+C:\Users\USER\OneDrive\桌面\語音壓縮\wave\wave\recorder.cpp(175,9): warning C4101: 'outputParameters': 未參考的區域變數
+  wave.vcxproj -> C:\Users\USER\OneDrive\桌面\語音壓縮\wave\Debug\wave.exe
